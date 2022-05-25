@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Saarang23-SuperCoord-Application/static/css/main.1efcef0d.css",
-    "main.js": "/Saarang23-SuperCoord-Application/static/js/main.66b966ee.js",
+    "main.js": "/Saarang23-SuperCoord-Application/static/js/main.02beaa97.js",
     "static/js/787.4313fb9b.chunk.js": "/Saarang23-SuperCoord-Application/static/js/787.4313fb9b.chunk.js",
     "static/media/Shirt.png": "/Saarang23-SuperCoord-Application/static/media/Shirt.f35fa8fba34d34a148af.png",
     "static/media/logo.svg": "/Saarang23-SuperCoord-Application/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Saarang23-SuperCoord-Application/index.html",
     "main.1efcef0d.css.map": "/Saarang23-SuperCoord-Application/static/css/main.1efcef0d.css.map",
-    "main.66b966ee.js.map": "/Saarang23-SuperCoord-Application/static/js/main.66b966ee.js.map",
+    "main.02beaa97.js.map": "/Saarang23-SuperCoord-Application/static/js/main.02beaa97.js.map",
     "787.4313fb9b.chunk.js.map": "/Saarang23-SuperCoord-Application/static/js/787.4313fb9b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1efcef0d.css",
-    "static/js/main.66b966ee.js"
+    "static/js/main.02beaa97.js"
   ]
 }
