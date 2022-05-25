@@ -1,0 +1,49 @@
+.card {
+	height: 300px;
+	width: 240px;
+	background-color: rgb(211, 211, 211);
+	border-color: #000000;
+	border-radius: 6px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.title {
+    font-weight: bold;
+	height: 40px;
+	color: rgb(35, 35, 35);
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.image {
+	background-color: rgb(37, 31, 31);
+	object-fit: cover;
+}
+
+img {
+	height: 210px;
+	object-fit: contain;
+}
+
+.drop {
+    background-color: #000000;
+    color: azure;
+}
+
+.input {
+    border-radius: 4px;
+    width: 150px;
+    height: 25px;
+}
+
+.flexb {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+}

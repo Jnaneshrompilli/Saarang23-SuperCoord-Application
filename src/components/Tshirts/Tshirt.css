@@ -1,0 +1,25 @@
+.contents {
+	display: flex;
+	justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+button {
+    font-size: 15px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 150px;
+    height: 30px;
+    background-color: rgb(183, 183, 183);
+    border-radius: 6px;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+button:active {
+    background-color: rgb(227, 227, 227);
+}

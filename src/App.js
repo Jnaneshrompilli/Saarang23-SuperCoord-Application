@@ -1,25 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
+
+import Card from "./components/Card/card";
+import Navbar from "./components/NavBar/navbar";
+import Tshirt from "./components/Tshirts/Tshirt";
+import Footer from "./components/Footer/footer";
+
+import axios from "axios";
+import { useQuery } from "react-query";
+
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+	console.log("HI");
+
+	return (
+		<div className="App">
+			<Navbar />
+            <Tshirt />
+            <Footer />
+		</div>
+	);
 }
 
 export default App;

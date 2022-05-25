@@ -1,0 +1,10 @@
+.navbar {
+	height: 40px;
+	font-size: 30px;
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	color: rgb(204, 204, 204);
+    margin-top: 10px;
+    margin-bottom: 40px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid;
+}
